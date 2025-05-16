@@ -1,6 +1,6 @@
 # 💆‍♀️ Sistema de Agendamento para Clínica de Estética
 
-Este é um sistema simples e funcional para agendamento de horários em uma clínica de estética. Desenvolvido com foco em praticidade e automação, ele permite que clientes agendem serviços via interface web, enquanto a profissional recebe notificações por e-mail automaticamente.
+Este é um sistema simples e funcional para agendamento de horários em uma clínica de estética. Desenvolvido para estudos, ele permite que clientes agendem serviços via interface web, enquanto a profissional recebe notificações por e-mail automaticamente.
 
 ---
 
