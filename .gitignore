@@ -1,4 +1,4 @@
-#ignora  variavies de ambiente
+#ignora variavies de ambiente
 .env
 
 #ignora diretorio de cache
