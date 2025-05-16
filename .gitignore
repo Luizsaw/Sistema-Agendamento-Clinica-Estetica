@@ -1,5 +1,2 @@
 #ignora variavies de ambiente
 .env
-
-#ignora diretorio de cache
-*__pycache__
