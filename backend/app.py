@@ -9,7 +9,7 @@ app = FastAPI()
 # Habilita CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://192.168.0.158:8080"], #MV ip
+    allow_origins=["*"], #MV ip
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

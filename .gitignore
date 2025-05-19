@@ -1,5 +1,5 @@
-#ignora  variavies de ambiente
+# Ignora o arquivo de variáveis de ambiente
 .env
 
-#ignora diretorio de cache
-*__pycache__
+# Ignora diretórios de cache do Python
+__pycache__/
