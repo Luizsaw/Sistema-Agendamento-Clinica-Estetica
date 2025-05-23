@@ -274,9 +274,5 @@ EMAIL_PROFISSIONAL=recebedor@clinica.com
 
 ---
 
-## 🔐 Aviso Legal
-
-> ⚠️ Este projeto é open-source sob licença MIT. Adapte as configurações de segurança para uso em produção.
-
 - **Versão:** 1.0.0  
 - **Última Atualização:** 19/05/2025
